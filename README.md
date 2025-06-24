@@ -11,7 +11,7 @@ Screenshot:
 
 Demo GIF:
 
-![Calculation Example](assets/demo.gif)
+![demo](https://github.com/user-attachments/assets/3048c467-4933-4a79-ab35-55b53be2aee5)
 
 
 ### 🚀 Features
