@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="OptKeys">#FF5722</color>
+    <color name="bgNumKeys">#FF069E78</color>
+    <color name="nightColor">#FF000000</color>
+
+</resources>
