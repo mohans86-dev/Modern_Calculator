@@ -56,8 +56,7 @@
             android:id="@+id/delKey"
             android:textColor="@color/black"
             android:backgroundTint="@color/OptKeys"
-            android:textSize="32sp"
-            android:textStyle="bold"/>
+            android:textSize="30sp"/>
         <Button
             android:layout_width="65dp"
             android:layout_height="72dp"
@@ -93,7 +92,7 @@
             android:id="@+id/num8"
             android:textColor="@color/white"
             android:backgroundTint="@color/bgNumKeys"
-            android:textSize="32sp"/>
+            android:textSize="30sp"/>
         <Button
             android:layout_width="65dp"
             android:layout_height="72dp"
@@ -102,7 +101,7 @@
             android:id="@+id/num9"
             android:textColor="@color/white"
             android:backgroundTint="@color/bgNumKeys"
-            android:textSize="32sp"/>
+            android:textSize="30sp"/>
         <Button
             android:layout_width="65dp"
             android:layout_height="72dp"
@@ -138,7 +137,7 @@
             android:id="@+id/num5"
             android:textColor="@color/white"
             android:backgroundTint="@color/bgNumKeys"
-            android:textSize="32sp"/>
+            android:textSize="30sp"/>
         <Button
             android:layout_width="65dp"
             android:layout_height="72dp"
@@ -147,7 +146,7 @@
             android:id="@+id/num6"
             android:textColor="@color/white"
             android:backgroundTint="@color/bgNumKeys"
-            android:textSize="32sp"/>
+            android:textSize="30sp"/>
         <Button
             android:layout_width="65dp"
             android:layout_height="72dp"
@@ -220,7 +219,7 @@
             android:id="@+id/D_0Key"
             android:textColor="@color/white"
             android:backgroundTint="@color/bgNumKeys"
-            android:textSize="14sp"/>
+            android:textSize="12.3sp"/>
         <Button
             android:layout_width="65dp"
             android:layout_height="72dp"
@@ -229,7 +228,7 @@
             android:id="@+id/num0"
             android:textColor="@color/white"
             android:backgroundTint="@color/bgNumKeys"
-            android:textSize="32sp"/>
+            android:textSize="30sp"/>
 
         <Button
             android:layout_width="146dp"
